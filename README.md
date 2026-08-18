@@ -1187,7 +1187,7 @@ Become a stronger full-stack engineer 🚀
 <img src="https://img.shields.io/badge/LinkedIn-Gokul%20Selva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:gokulselva.dev@gmail.com">
+<a href="mailto:gokulselva105@gmail.com">
 <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
