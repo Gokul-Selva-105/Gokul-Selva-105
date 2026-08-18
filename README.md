@@ -1,29 +1,25 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,40:111111,75:8b0000,100:ff0000&height=250&section=header&text=GOKUL%20SELVA&fontSize=58&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=SOFTWARE%20ENGINEER%20%7C%20FULL-STACK%20WEB%20DEVELOPER&descAlignY=59&descSize=17" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:050505,25:111111,55:1a1a1a,80:8b0000,100:ff0000&text=GOKUL%20SELVA&fontSize=58&fontColor=ffffff&fontAlignY=35&desc=SOFTWARE%20ENGINEER%20%E2%80%A2%20FULL-STACK%20WEB%20DEVELOPER&descSize=17&descAlignY=58&animation=fadeIn"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=2200&pause=650&color=FF3131&center=true&vCenter=true&width=950&lines=Software+Engineer+%7C+Full-Stack+Web+Developer;React+%7C+Next.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+MySQL+%7C+Laravel+%7C+PHP;Building+ERP%2C+CRM%2C+Dashboards+%26+Web+Applications;Authentication+%7C+RBAC+%7C+REST+APIs+%7C+CRUD+Systems;Learning+%E2%80%A2+Building+%E2%80%A2+Debugging+%E2%80%A2+Deploying" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=650&color=FF3131&center=true&vCenter=true&width=1000&lines=Software+Engineer+%7C+Full-Stack+Web+Developer;Building+Modern+Web+Applications;React+%7C+Next.js+%7C+Node.js+%7C+Express.js;MongoDB+%7C+MySQL+%7C+Laravel+%7C+PHP;Authentication+%7C+RBAC+%7C+REST+APIs+%7C+CRUD;UI+Engineering+%7C+Backend+Engineering+%7C+Deployment;Build.+Break.+Debug.+Understand.+Improve.+%F0%9F%9A%80" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/ROLE-Software%20Engineer-ff3131?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/FOCUS-Full--Stack-ff3131?style=for-the-badge&labelColor=080808"/>
-<img src="https://img.shields.io/badge/BUILD-Modern%20Web%20Apps-ff3131?style=for-the-badge&labelColor=080808"/>
+<img src="https://img.shields.io/badge/STATUS-BUILDING-ff3131?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-ff3131?style=for-the-badge&labelColor=050505"/>
+<img src="https://img.shields.io/badge/MINDSET-ALWAYS%20LEARNING-ff3131?style=for-the-badge&labelColor=050505"/>
 
 <br><br>
 
 <a href="https://github.com/Gokul-Selva-105">
-<img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-Gokul--Selva--105-111111?style=for-the-badge&logo=github&logoColor=ffffff"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gokul-selva-full-stack-web-developer">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gokulselva.dev@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
 </a>
 
 <br><br>
@@ -32,279 +28,360 @@
 
 </div>
 
----
+👋 HELLO, WORLD!
 
-# 👋 HELLO, I'M GOKUL
+<table>
+<tr>
+<td width="58%" valign="top">
 
-```text
-╔══════════════════════════════════════════════════════════════╗
-║                         GOKUL SELVA                         ║
-╠══════════════════════════════════════════════════════════════╣
-║  Software Engineer                                          ║
-║  Full-Stack Web Developer                                   ║
-║                                                              ║
-║  I build web applications from UI → API → Database →       ║
-║  Authentication → Business Logic → Deployment.              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+I'm Gokul Selva 👨‍💻
 
-I enjoy building **real-world applications**, experimenting with new technologies, debugging difficult problems and understanding how different parts of a software system work together.
+I'm a Software Engineer / Full-Stack Web Developer who enjoys turning ideas into real applications.
 
-My development journey has moved from **HTML/CSS → JavaScript → React → Node.js → Express → MongoDB → Next.js → TypeScript → authentication → role-based systems → deployment**, and I'm expanding into **PHP, Laravel, MySQL, system design and DSA**.
+My development journey has grown from:
 
----
+Frontend → Backend → Databases → Authentication → Architecture → Deployment
 
-# 🧠 MY DEVELOPMENT MINDSET
+I enjoy building applications that are:
+
+⚡ Fast
+
+🧩 Modular
+
+🎨 Clean
+
+🔐 Secure
+
+📱 Responsive
+
+🚀 Production-minded
+
+I'm especially interested in business applications, dashboards, ERP/CRM systems, REST APIs and modern full-stack architectures.
+
+</td>
+
+<td width="42%" valign="top">
+
+╔══════════════════════════════╗
+║       DEVELOPER STATUS       ║
+╠══════════════════════════════╣
+║ 👨‍💻 Role                    ║
+║ └─ Software Engineer         ║
+║                              ║
+║ 🧠 Specialty                ║
+║ └─ Full-Stack Development    ║
+║                              ║
+║ ⚛️ Frontend                 ║
+║ └─ React / Next.js           ║
+║                              ║
+║ ⚙️ Backend                  ║
+║ └─ Node / Express / Laravel  ║
+║                              ║
+║ 🗄️ Database                ║
+║ └─ MongoDB / MySQL           ║
+║                              ║
+║ 🚀 Status                   ║
+║ └─ Learning & Building       ║
+╚══════════════════════════════╝
+
+</td>
+</tr>
+</table>
 
 <div align="center">
 
-```text
-        IDEA
-          │
-          ▼
-       DESIGN
-          │
-          ▼
-        CODE
-          │
-          ▼
-        TEST
-          │
-          ▼
-       DEBUG
-          │
-          ▼
-       IMPROVE
-          │
-          ▼
-       DEPLOY
-          │
-          ▼
-       LEARN 🚀
-```
-
-### BUILD → BREAK → DEBUG → UNDERSTAND → IMPROVE
+BUILD → BREAK → DEBUG → UNDERSTAND → IMPROVE
 
 </div>
 
----
+🖥️ WHOAMI
 
-# 🧰 TECHNOLOGY STACK
+gokul@developer:~$ whoami
+Software Engineer
 
-## 🎨 FRONTEND
+gokul@developer:~$ echo $ROLE
+Full-Stack Web Developer
+
+gokul@developer:~$ echo $MISSION
+Build useful software.
+Understand systems.
+Keep improving.
+
+gokul@developer:~$ echo $CURRENT_GOAL
+Become a stronger software engineer.
+
+gokul@developer:~$ echo $STATUS
+████████████████████████████████████████  ONLINE
+
+⚡ MY DEVELOPMENT FLOW
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap&perline=8"/>
+        ┌────────────┐
+        │    IDEA    │
+        └─────┬──────┘
+              │
+              ▼
+        ┌────────────┐
+        │   DESIGN   │
+        └─────┬──────┘
+              │
+              ▼
+        ┌────────────┐
+        │    CODE    │
+        └─────┬──────┘
+              │
+              ▼
+        ┌────────────┐
+        │    TEST    │
+        └─────┬──────┘
+              │
+              ▼
+        ┌────────────┐
+        │   DEBUG    │
+        └─────┬──────┘
+              │
+              ▼
+        ┌────────────┐
+        │  IMPROVE   │
+        └─────┬──────┘
+              │
+              ▼
+        ┌────────────┐
+        │   DEPLOY   │
+        └─────┬──────┘
+              │
+              ▼
+        ┌────────────┐
+        │   REPEAT   │
+        └────────────┘
 
 </div>
 
-### Technologies & Concepts
+🌌 TECHNOLOGY UNIVERSE
 
-```text
+<div align="center">
+
+🌐 WEB FUNDAMENTALS
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" />
+
+<br><br>
+
+⚛️ FRONTEND
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap" />
+
+<br><br>
+
+⚙️ BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel" />
+
+<br><br>
+
+🗄️ DATABASE
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+<br><br>
+
+🛠️ DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,postman" />
+
+</div>
+
+🧠 WHAT I KNOW
+
+<table>
+<tr>
+<td width="25%">
+
+🌐 WEB
+
 HTML
+
 CSS
+
 JavaScript
+
 TypeScript
-React
-Next.js
-React Router
-Tailwind CSS
-Tailwind CSS v4
-Bootstrap
+
 Responsive Design
-Component Architecture
-Reusable Components
-Form Handling
-Client-side State
+
 API Integration
-Axios
-Fetch API
-```
 
-### UI / Frontend Work
+</td>
 
-```text
-• Responsive navigation
-• Dashboards
-• Tables
-• Forms
-• CRUD interfaces
-• Modal / popup forms
-• Search & filtering
-• Profile pages
-• Admin interfaces
-• Employee interfaces
-• Job boards
-• ERP / CRM interfaces
-• Glassmorphism UI
-• Modern landing pages
-• Animations
-• Interactive components
-```
+<td width="25%">
 
----
+⚛️ FRONTEND
 
-# ⚙️ JAVASCRIPT / TYPESCRIPT
-
-```text
-JavaScript
-├── ES6+
-├── Variables & scope
-├── Functions
-├── Arrow functions
-├── Arrays
-├── Objects
-├── Destructuring
-├── Spread / Rest
-├── Promises
-├── Async / Await
-├── Error handling
-├── Modules
-├── DOM concepts
-└── API handling
-
-TypeScript
-├── Types
-├── Interfaces
-├── Type aliases
-├── Generics
-├── Props typing
-├── API response typing
-├── Server-side types
-└── Next.js TypeScript development
-```
-
----
-
-# ⚛️ REACT
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=react" width="80"/>
-
-</div>
-
-```text
 React
+
+Next.js
+
+React Router
+
+Tailwind
+
+Bootstrap
+
+Axios
+
+Hooks
+
+Components
+
+</td>
+
+<td width="25%">
+
+⚙️ BACKEND
+
+Node.js
+
+Express.js
+
+PHP
+
+Laravel
+
+REST APIs
+
+Middleware
+
+CRUD
+
+File Uploads
+
+</td>
+
+<td width="25%">
+
+🗄️ DATABASE
+
+MongoDB
+
+Mongoose
+
+MongoDB Atlas
+
+MongoDB Compass
+
+MySQL
+
+MariaDB
+
+Database Design
+
+</td>
+</tr>
+</table>
+
+⚛️ REACT ENGINEERING
+
+REACT
+│
 ├── Components
 ├── Props
 ├── State
 ├── useState
 ├── useEffect
 ├── useRef
-├── Event handling
-├── Conditional rendering
-├── Lists / map
+├── Event Handling
 ├── Forms
-├── API requests
-├── Axios
+├── Conditional Rendering
+├── Lists / map()
 ├── React Router
-├── Reusable components
-├── Custom hooks
-└── Service-based API architecture
-```
+├── Axios
+├── Custom Hooks
+├── Reusable Components
+└── Service-Based API Architecture
 
-### React Architecture
+Frontend Architecture
 
-```text
-Page
- │
- ├── Components
- │      │
- │      ├── UI
- │      ├── Forms
- │      ├── Cards
- │      └── Tables
- │
- ├── Hooks
- │
- ├── Services
- │      │
- │      └── API requests
- │
- └── Backend
-```
+                    PAGE
+                     │
+           ┌─────────┴──────────┐
+           ▼                    ▼
+      COMPONENTS              HOOKS
+           │                    │
+    ┌──────┼──────┐             │
+    ▼      ▼      ▼             │
+   UI     FORM   TABLE           │
+           │                    │
+           └──────────┬─────────┘
+                      ▼
+                   SERVICE
+                      │
+                      ▼
+                     API
 
----
+▲ NEXT.JS ENGINEERING
 
-# ▲ NEXT.JS
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nextjs" width="90"/>
-
-</div>
-
-```text
-Next.js
+NEXT.JS
+│
 ├── App Router
 ├── app/
-├── layouts
-├── pages
-├── API routes
-├── Server-side logic
-├── Client components
-├── Server-side concepts
+├── Layouts
+├── Pages
+├── Route Handlers
+├── Client Components
+├── Server Components
 ├── Middleware
-├── Environment variables
-├── Authentication
-├── Protected routes
-├── Cookies
-├── HTTP-only cookies
-├── JWT
-├── API services
-├── Custom hooks
+├── API Routes
 ├── TypeScript
-├── Tailwind CSS
-└── Production builds
-```
+├── Environment Variables
+├── Authentication
+├── Protected Routes
+├── Cookies
+├── JWT
+├── Services
+├── Custom Hooks
+└── Production Builds
 
-### Next.js Architecture I Work With
+Next.js Application Flow
 
-```text
-                 NEXT.JS APPLICATION
-                         │
-        ┌────────────────┼────────────────┐
-        │                │                │
-        ▼                ▼                ▼
-      APP/UI           API             SERVER
-        │                │                │
-        ▼                ▼                ▼
-   Components       Route handlers    Services
-        │                │                │
-        └────────────────┼────────────────┘
-                         │
-                         ▼
-                    MongoDB
-```
+USER
+ │
+ ▼
+NEXT.JS UI
+ │
+ ▼
+API / ROUTE HANDLER
+ │
+ ▼
+AUTHENTICATION
+ │
+ ▼
+BUSINESS LOGIC
+ │
+ ▼
+DATABASE
+ │
+ ▼
+RESPONSE
+ │
+ ▼
+UI UPDATE
 
----
+🟢 BACKEND ENGINEERING
 
-# 🟢 BACKEND
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,php,laravel&perline=4"/>
-
-</div>
-
-## Node.js
-
-```text
 Node.js
-├── HTTP server
+
+Node.js
 ├── npm
-├── package management
-├── Environment variables
-├── Async programming
-├── API development
-└── Backend application structure
-```
+├── Modules
+├── Async Programming
+├── Environment Variables
+├── HTTP
+├── Server Applications
+└── Backend Architecture
 
-## Express.js
+Express.js
 
-```text
 Express.js
 ├── Routes
 ├── Controllers
@@ -312,240 +389,511 @@ Express.js
 ├── REST APIs
 ├── Request / Response
 ├── CORS
-├── Error handling
-├── CRUD endpoints
-└── Authentication middleware
-```
+├── Error Handling
+├── CRUD
+└── File Uploads
 
-## PHP / Laravel
+PHP + Laravel
 
-```text
 PHP
-├── Syntax
-├── Variables
-├── Functions
-├── Server-side programming
-└── Web backend fundamentals
+│
+└── Server-Side Development
 
 Laravel
-├── MVC architecture
+│
+├── MVC
 ├── Routes
 ├── Controllers
 ├── Models
-├── Migrations
 ├── Middleware
-├── API development
+├── Migrations
+├── Validation
 ├── Authentication
-└── MySQL integration
-```
+├── APIs
+└── MySQL Integration
 
----
+🔌 REST API LAB
 
-# 🔌 REST API DEVELOPMENT
+<div align="center">
 
-```text
-GET
-│
-├── Fetch data
-│
-POST
-│
-├── Create data
-│
-PUT / PATCH
-│
-├── Update data
-│
-DELETE
-│
-└── Remove data
-```
+Method
 
-### API Concepts
+Purpose
 
-```text
+Example
+
+🟢 GET
+
+Read
+
+/api/users
+
+🔵 POST
+
+Create
+
+/api/users
+
+🟡 PUT
+
+Replace
+
+/api/users/:id
+
+🟠 PATCH
+
+Update
+
+/api/users/:id
+
+🔴 DELETE
+
+Remove
+
+/api/users/:id
+
+</div>
+
+API Concepts
+
 REST
 CRUD
-HTTP methods
-HTTP status codes
 JSON
-Request body
-Query parameters
-Route parameters
+HTTP Methods
+HTTP Status Codes
 Headers
-Authentication
-Authorization
+Cookies
+Request Body
+Query Parameters
+Route Parameters
 CORS
 Middleware
-API testing
-Environment variables
-Error handling
-```
+Error Handling
+API Testing
+Environment Variables
 
----
+🔐 AUTHENTICATION LAB
 
-# 🔐 AUTHENTICATION & SECURITY
+             LOGIN
+               │
+               ▼
+       ┌────────────────┐
+       │ Validate Input │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │ bcrypt compare  │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │   Create JWT   │
+       └───────┬────────┘
+               │
+               ▼
+       ┌─────────────────┐
+       │ HTTP-only Cookie │
+       └───────┬─────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │ Verify Token   │
+       └───────┬────────┘
+               │
+               ▼
+       ┌────────────────┐
+       │ Protected Page │
+       └────────────────┘
 
-<div align="center">
+Security Concepts
 
-```text
-LOGIN
-  │
-  ▼
-Validate Credentials
-  │
-  ▼
-bcrypt Password Check
-  │
-  ▼
-Create JWT
-  │
-  ▼
-HTTP-only Cookie
-  │
-  ▼
-Middleware Verification
-  │
-  ▼
-Protected Route
-```
-
-</div>
-
-### Worked With
-
-```text
 JWT
+
 bcrypt
+
 HTTP-only cookies
+
 Secure cookies
+
 SameSite cookies
+
+Middleware
+
 Protected routes
-Middleware authentication
-Role-based access
-Page permissions
-CRUD permissions
-Session concepts
-Environment secrets
+
 Authentication APIs
-Logout flows
-```
 
----
+Logout handling
 
-# 🛡️ ROLE-BASED ACCESS CONTROL
+Environment secrets
 
-One of the systems I've worked on uses permission-driven application access.
+🛡️ RBAC / PERMISSIONS
 
-```javascript
-permissions = {
-    attendance: {
-        create: true,
-        read: true,
-        update: true,
-        delete: false
-    },
+const permissions = {
+  attendance: {
+    create: true,
+    read: true,
+    update: true,
+    delete: false
+  },
 
-    customers: {
-        create: true,
-        read: true,
-        update: false,
-        delete: false
-    },
+  customers: {
+    create: true,
+    read: true,
+    update: false,
+    delete: false
+  },
 
-    reports: {
-        create: true,
-        read: true,
-        update: true,
-        delete: true
-    }
-}
-```
+  reports: {
+    create: true,
+    read: true,
+    update: true,
+    delete: true
+  }
+};
 
-This allows different employees to have different levels of access.
+Permission Model
 
----
+USER
+ │
+ ├── ROLE
+ │
+ ├── PAGES
+ │
+ └── PERMISSIONS
+       │
+       ├── CREATE
+       ├── READ
+       ├── UPDATE
+       └── DELETE
 
-# 🗄️ DATABASES
+🍃 MONGODB
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=2"/>
+<img src="https://skillicons.dev/icons?i=mongodb" width="80"/>
 
 </div>
 
-## 🍃 MongoDB
-
-```text
 MongoDB
+│
 ├── MongoDB Atlas
 ├── MongoDB Compass
 ├── Collections
 ├── Documents
-├── Mongoose
 ├── Schemas
 ├── Models
+├── Mongoose
 ├── CRUD
-├── Queries
 ├── Validation
-├── Unique fields
-└── Database connections
-```
+├── Queries
+├── Unique Fields
+└── Connection Handling
 
-## 🐬 MySQL
+Database Flow
 
-```text
+APPLICATION
+     │
+     ▼
+ MONGOOSE
+     │
+     ▼
+  MODEL
+     │
+     ▼
+  SCHEMA
+     │
+     ▼
+ MONGODB
+
+🐬 MYSQL
+
 MySQL
+│
 ├── Databases
 ├── Tables
 ├── Rows
 ├── Columns
 ├── Queries
-├── Relationships
-├── Primary keys
-├── Foreign keys
 ├── CRUD
-└── Laravel database integration
-```
+├── Relationships
+├── Primary Keys
+├── Foreign Keys
+└── Laravel Integration
 
----
+📁 FILE UPLOAD SYSTEM
 
-# 🧩 MONGOOSE
+             FRONTEND
+                 │
+                 ▼
+          MULTIPART DATA
+                 │
+                 ▼
+             EXPRESS
+                 │
+                 ▼
+              MULTER
+                 │
+                 ▼
+             uploads/
+                 │
+                 ▼
+         Static File Serving
 
-```text
+Tools
+
+Multer • Express • File Handling • Static Assets
+
+🎨 UI / FRONTEND DESIGN
+
+I enjoy experimenting with:
+
+Glassmorphism
+Dark UI
+Responsive Design
+Modern Dashboards
+Cards
+Tables
+Forms
+Navigation Systems
+Search Interfaces
+Admin Panels
+ERP Interfaces
+CRM Interfaces
+Landing Pages
+Gradient Themes
+Brutalist UI
+Micro Interactions
+Animated Components
+
+UI Technologies
+
+Tailwind CSS
+Bootstrap
+Custom CSS
+GSAP
+Lottie
+Responsive Layouts
+Reusable Components
+
+🚀 DEVOPS / DEPLOYMENT
+
+       CODE
+        │
+        ▼
+      GITHUB
+        │
+        ▼
+   GITHUB ACTIONS
+        │
+        ▼
+       BUILD
+        │
+        ▼
+        SSH
+        │
+        ▼
+    LINUX / CPANEL
+        │
+        ▼
+   PRODUCTION APP
+        │
+        ▼
+    DOMAIN / API
+
+Deployment Experience
+
+GitHub
+GitHub Actions
+CI/CD
+SSH
+Linux
+cPanel
+Subdomains
+Environment Variables
+Secrets
+Production Builds
+API Deployment
+Backend Deployment
+
+🐧 LINUX / SERVER
+
+$ whoami
+gokul
+
+$ uname
+Linux
+
+$ git --version
+git
+
+$ node --version
+node
+
+$ npm --version
+npm
+
+$ ssh
+Secure Shell
+
+$ system_status
+████████████████████████████████████████
+SERVER READY
+
+🧪 DEVELOPMENT TOOLBOX
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm,postman" />
+
+<br><br>
+
+<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+
+</div>
+
+VS Code
+Git
+GitHub
+GitHub Actions
+npm
+Nodemon
+Postman
+MongoDB Compass
+ngrok
+Linux
+SSH
+cPanel
+XAMPP
+MariaDB
+
+🌍 NGROK / LOCAL TESTING
+
+LOCAL APPLICATION
+       │
+       ▼
+   localhost
+       │
+       ▼
+     ngrok
+       │
+       ▼
+ PUBLIC URL
+       │
+       ▼
+External Testing
+
+🏢 PROJECT LAB
+
+🚀 SCALABOX ERP / CRM
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/NEXT.JS-111111?style=for-the-badge&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGOOSE-880000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/TAILWIND-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+
+</div>
+
+System
+
+                     SCALABOX ERP / CRM
+                              │
+          ┌───────────────────┼───────────────────┐
+          │                   │                   │
+          ▼                   ▼                   ▼
+      EMPLOYEES            CUSTOMERS           TASKS
+          │                   │                   │
+          ▼                   ▼                   ▼
+     ATTENDANCE           CUSTOMER INFO        JOB DATA
+          │
+          ├───────────────┐
+          ▼               ▼
+      EXPENSES         INCOME
+          │               │
+          └───────┬───────┘
+                  ▼
+            DAILY REPORTS
+                  │
+                  ▼
+              CALENDAR
+
+Modules
+
+01  Attendance
+02  Add Customer
+03  Task Manager
+04  Customer Handling
+05  Task Creating
+06  Expenses Control
+07  Income Adding
+08  Daily Report
+09  Calendar
+10  Profile
+11  Authentication
+12  Role & Permissions
+
+Engineering Concepts
+
+Authentication
+JWT
+HTTP-only Cookies
+Middleware
+RBAC
+CRUD Permissions
+Services
+Custom Hooks
+API Routes
 MongoDB
-     │
-     ▼
 Mongoose
-     │
-     ├── Schema
-     ├── Model
-     ├── Validation
-     ├── Queries
-     ├── Documents
-     └── Connections
-```
+TypeScript
+Tailwind CSS
+App Router
 
-I've worked with schemas for:
+💼 JOB BOARD PLATFORM
 
-```text
-Users
-Employees
-Jobs
-Customers
-Tasks
-Reports
-Permissions
-Attendance
-```
+<div align="center">
 
----
+<img src="https://img.shields.io/badge/REACT-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/NODE.JS-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPRESS-111111?style=for-the-badge&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MONGODB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 
-# 🗂️ PROJECT ARCHITECTURE
+</div>
 
-One of the architectural patterns I've explored:
+Features
 
-```text
+🔎 Job Search
+👨‍💼 Employee Management
+📝 Job Creation
+✏️ Update
+🗑️ Delete
+📁 File Upload
+🔌 REST API
+🗄️ MongoDB
+📱 Responsive UI
+
+Architecture
+
+React
+  │
+  ▼
+Axios
+  │
+  ▼
+Express API
+  │
+  ▼
+Mongoose
+  │
+  ▼
+MongoDB
+
+🏗️ PROJECT ARCHITECTURE
+
 project/
 │
 ├── app/
@@ -564,518 +912,294 @@ project/
 │   └── UI/
 │
 ├── services/
+│   ├── auth.service
 │   ├── user.service
-│   ├── report.service
-│   └── auth.service
+│   └── report.service
 │
 ├── hooks/
-│
 ├── server/
-│
 ├── models/
-│
 ├── lib/
-│
 └── middleware
-```
 
-### Concepts I've been working with
+🔗 DATA FLOW
 
-```text
-Separation of concerns
-Reusable components
-Service layer
-Custom hooks
-Server utilities
-Database utilities
-API abstraction
-Component composition
-Folder architecture
-```
+                    USER
+                      │
+                      ▼
+              ┌───────────────┐
+              │   NEXT / REACT│
+              └───────┬───────┘
+                      │
+                      ▼
+                AXIOS / FETCH
+                      │
+                      ▼
+                REST API
+                      │
+                      ▼
+             AUTH / MIDDLEWARE
+                      │
+                      ▼
+                SERVICE LAYER
+                      │
+              ┌───────┴────────┐
+              ▼                ▼
+           MongoDB           MySQL
+              │                │
+              └───────┬────────┘
+                      ▼
+                  RESPONSE
+                      │
+                      ▼
+                       UI
 
----
-
-# 📁 FILE UPLOADS
-
-I've also worked with backend file uploads using:
-
-```text
-Multer
-│
-├── File upload
-├── Upload directory
-├── File handling
-└── Static file serving
-```
-
-Typical flow:
-
-```text
-Frontend
-   │
-   ▼
-Multipart/Form Data
-   │
-   ▼
-Express
-   │
-   ▼
-Multer
-   │
-   ▼
-uploads/
-```
-
----
-
-# 🧪 DEVELOPMENT TOOLS
+📚 MY LEARNING JOURNEY
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,npm&perline=5"/>
-
-</div>
-
-```text
-VS Code
-Git
-GitHub
-GitHub Actions
-npm
-Nodemon
-Postman
-MongoDB Compass
-ngrok
-Linux
-SSH
-cPanel
-XAMPP
-MariaDB
-MySQL
-```
-
----
-
-# 🔗 API TESTING & DEVELOPMENT
-
-## Postman / API Testing
-
-```text
-GET
-POST
-PUT
-PATCH
-DELETE
-
-Headers
-Body
-JSON
-Authorization
-Cookies
-Status Codes
-Response Testing
-```
-
-## ngrok
-
-Used for exposing local development services for testing.
-
-```text
-LOCAL SERVER
-     │
-     ▼
-   ngrok
-     │
-     ▼
-PUBLIC URL
-     │
-     ▼
-External testing
-```
-
----
-
-# 🐧 LINUX
-
-```text
-Linux
-├── Terminal
-├── Package installation
-├── Permissions
-├── Processes
-├── Services
-├── SSH
-├── MySQL / MariaDB
-├── Node.js
-├── npm
-├── Git
-├── Environment variables
-└── Server troubleshooting
-```
-
----
-
-# 🚀 DEPLOYMENT & DEVOPS
-
-I've been working with deployment concepts around:
-
-```text
-GitHub
-GitHub Actions
-SSH
-cPanel
-Linux servers
-Environment variables
-Secrets
-CI/CD
-Production builds
-Backend deployment
-Subdomains
-API endpoints
-```
-
-### Deployment Flow
-
-```text
-       GITHUB
-          │
-          ▼
-    GitHub Actions
-          │
-          ▼
-        SSH
-          │
-          ▼
-      cPanel/Linux
-          │
-          ▼
-      Application
-          │
-          ▼
-      API / Domain
-```
-
----
-
-# 🔄 CI/CD
-
-```text
-Developer
-   │
-   ▼
-git push
-   │
-   ▼
-GitHub
-   │
-   ▼
-GitHub Actions
-   │
-   ├── Install
-   ├── Build
-   ├── Test
-   └── Deploy
-          │
-          ▼
-       Server
-```
-
----
-
-# 🎨 UI / DESIGN
-
-I enjoy experimenting with modern interfaces and visual styles.
-
-```text
-Glassmorphism
-Dark themes
-Responsive layouts
-Modern dashboards
-Cards
-Tables
-Navigation systems
-Landing pages
-Interactive buttons
-Micro-interactions
-Animations
-Gradient themes
-Minimal interfaces
-Brutalist UI experiments
-```
-
-### Frontend libraries / animation work
-
-```text
-GSAP
-Lottie
-Tailwind CSS
-Bootstrap
-Custom CSS
-Responsive design
-Component-based UI
-```
-
----
-
-# 🏢 MAIN PROJECT — SCALABOX ERP / CRM
-
-<div align="center">
-
-### `NEXT.JS` `TYPESCRIPT` `MONGODB` `MONGOOSE` `TAILWIND`
-
-</div>
-
-A business management platform focused on employee operations, customers, tasks, permissions and reporting.
-
-```text
-                 SCALABOX ERP / CRM
-                         │
-      ┌──────────────────┼──────────────────┐
-      │                  │                  │
-      ▼                  ▼                  ▼
-   Employees          Customers           Tasks
-      │                  │                  │
-      ├── Attendance     ├── Details        ├── Jobs
-      ├── Permissions    ├── Contacts       └── Scheduling
-      └── Profiles       └── Handling
-      │
-      ├── Expenses
-      ├── Income
-      ├── Daily Reports
-      └── Calendar
-```
-
-### Modules
-
-```text
-01. Attendance
-02. Add Customer
-03. Task Manager
-04. Customer Handling
-05. Task Creating
-06. Expenses Control
-07. Income Adding
-08. Daily Report
-09. Calendar Task Mark
-10. Profile
-11. Authentication
-12. Permissions
-```
-
----
-
-# 💼 JOB BOARD PLATFORM
-
-```text
-React
-Node.js
-Express.js
-MongoDB
-Mongoose
-Axios
-Bootstrap
-Multer
-REST API
-```
-
-### Includes
-
-```text
-Job listing
-Employee management
-Search
-CRUD
-API integration
-MongoDB storage
-File upload
-Responsive UI
-```
-
----
-
-# 📊 PROJECT DATA FLOW
-
-```text
-         USER
-          │
-          ▼
-     React / Next.js
-          │
-          ▼
-     Axios / Fetch
-          │
-          ▼
-      REST API
-          │
-          ▼
-    Server / Services
-          │
-          ▼
-    Authentication
-          │
-          ▼
-      Database
-          │
-      ┌───┴────┐
-      ▼        ▼
-  MongoDB    MySQL
-```
-
----
-
-# 🧠 THINGS I'VE LEARNED ALONG THE WAY
-
-<div align="center">
-
-| Category           | Technologies / Concepts                  |
-| ------------------ | ---------------------------------------- |
-| 🌐 Web             | HTML, CSS, JavaScript                    |
-| ⚛️ Frontend        | React, React Router, Bootstrap, Tailwind |
-| ▲ Framework        | Next.js, App Router                      |
-| 🟦 Language        | TypeScript                               |
-| 🟢 Backend         | Node.js, Express.js                      |
-| 🐘 Backend         | PHP, Laravel                             |
-| 🍃 Database        | MongoDB, Mongoose, Atlas                 |
-| 🐬 Database        | MySQL, MariaDB                           |
-| 🔐 Security        | JWT, bcrypt, HTTP-only cookies           |
-| 🛡️ Authorization  | RBAC, CRUD permissions                   |
-| 📡 API             | REST, JSON, Axios, Fetch                 |
-| 📁 Files           | Multer                                   |
-| 🧪 Testing         | Postman                                  |
-| 🌍 Tunneling       | ngrok                                    |
-| 🎨 UI              | Tailwind, Bootstrap, GSAP, Lottie        |
-| 🔧 Tools           | VS Code, npm, Nodemon                    |
-| 🐙 Version Control | Git, GitHub                              |
-| ⚙️ CI/CD           | GitHub Actions                           |
-| 🐧 Server          | Linux, SSH, cPanel                       |
-| 🚀 Deployment      | Production builds, subdomains, APIs      |
-| 🧠 CS              | DSA, problem solving                     |
-| 🏗️ Architecture   | Services, hooks, modular structure       |
-
-</div>
-
----
-
-# 🧭 MY LEARNING JOURNEY
-
-```text
-HTML + CSS
-     │
-     ▼
+HTML / CSS
+     ↓
 JavaScript
-     │
-     ▼
+     ↓
 Bootstrap
-     │
-     ▼
+     ↓
 React
-     │
-     ├── React Router
-     ├── Axios
-     ├── Hooks
-     └── Components
-     │
-     ▼
+     ↓
+React Router
+     ↓
+Axios
+     ↓
 Node.js
-     │
-     ▼
+     ↓
 Express.js
-     │
-     ├── REST APIs
-     ├── CRUD
-     ├── Middleware
-     └── File Uploads
-     │
-     ▼
+     ↓
+REST APIs
+     ↓
 MongoDB
-     │
-     └── Mongoose
-     │
-     ▼
+     ↓
+Mongoose
+     ↓
 Next.js
-     │
-     ├── App Router
-     ├── TypeScript
-     ├── Middleware
-     └── Authentication
-     │
-     ▼
-Production Development
-     │
-     ├── Linux
-     ├── SSH
-     ├── cPanel
-     ├── GitHub Actions
-     └── CI/CD
-     │
-     ▼
-PHP + Laravel
-     │
-     ▼
+     ↓
+TypeScript
+     ↓
+Authentication
+     ↓
+RBAC
+     ↓
+Linux / SSH
+     ↓
+cPanel / Deployment
+     ↓
+GitHub Actions / CI-CD
+     ↓
+PHP / Laravel
+     ↓
 MySQL
-     │
-     ▼
-System Design + DSA 🚀
-```
-
----
-
-# 📚 CURRENTLY LEARNING
-
-<div align="center">
-
-```text
-┌──────────────────────────────────────────────────────┐
-│                 CURRENT FOCUS                        │
-├──────────────────────────────────────────────────────┤
-│ ▲ Advanced Next.js                                   │
-│ 🔥 Laravel                                            │
-│ 🐬 MySQL                                              │
-│ 🧠 Data Structures & Algorithms                       │
-│ 🏗️ System Design                                     │
-│ 🔐 Production Authentication                          │
-│ 🚀 Deployment & CI/CD                                │
-│ 📦 Scalable Project Architecture                      │
-└──────────────────────────────────────────────────────┘
-```
+     ↓
+DSA
+     ↓
+System Design
 
 </div>
 
----
+🧭 ROADMAP
 
-# 📈 GITHUB STATISTICS
+FULL-STACK JOURNEY
+│
+├── ✅ HTML / CSS
+├── ✅ JavaScript
+├── ✅ Bootstrap
+├── ✅ React
+├── ✅ React Router
+├── ✅ Node.js
+├── ✅ Express.js
+├── ✅ MongoDB
+├── ✅ Mongoose
+├── ✅ REST APIs
+├── ✅ Next.js
+├── ✅ TypeScript
+├── ✅ Authentication
+├── ✅ RBAC
+├── ✅ Git / GitHub
+├── ✅ Linux / SSH
+├── ✅ cPanel
+├── ✅ GitHub Actions
+│
+├── 🔄 Laravel
+├── 🔄 PHP
+├── 🔄 MySQL
+├── 🔄 DSA
+└── 🔄 System Design
+
+🔥 CURRENT FOCUS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Gokul-Selva-105&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=ff3131&icon_color=ff3131&text_color=ffffff" width="49%"/>
+▲ NEXT.JS
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-Selva-105&layout=donut&hide_border=true&theme=transparent&title_color=ff3131&text_color=ffffff" width="49%"/>
+████████████████████████████████████████
+
+⚛️ REACT
+
+██████████████████████████████████████░░
+
+🟢 NODE.JS
+
+████████████████████████████████████░░░░
+
+🔥 LARAVEL
+
+██████████████████████████████░░░░░░░░░░
+
+🐬 MYSQL
+
+████████████████████████████░░░░░░░░░░░░
+
+🧠 DSA
+
+███████████████████████░░░░░░░░░░░░░░░░░
+
+🏗️ SYSTEM DESIGN
+
+██████████████████░░░░░░░░░░░░░░░░░░░░░
 
 </div>
 
----
+🧠 CURRENTLY LEARNING
 
-# 🔥 CONTRIBUTION STREAK
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+🔥
+
+Laravel
+
+MVC
+Controllers
+Models
+APIs
+Authentication
+
+</td>
+
+<td width="25%" align="center">
+
+🐬
+
+MySQL
+
+Queries
+Relationships
+Indexes
+Database Design
+
+</td>
+
+<td width="25%" align="center">
+
+🧠
+
+DSA
+
+Algorithms
+Data Structures
+Complexity
+Problem Solving
+
+</td>
+
+<td width="25%" align="center">
+
+🏗️
+
+System Design
+
+Architecture
+Scalability
+APIs
+Databases
+
+</td>
+
+</tr>
+</table>
+
+🧩 ENGINEERING PRINCIPLES
+
+┌───────────────────────────────────────────────┐
+│              ENGINEERING VALUES               │
+├───────────────────────────────────────────────┤
+│ 🧩 Reusable Components                        │
+│ 🔐 Security First                             │
+│ 📦 Modular Architecture                       │
+│ 🧠 Understand Before Copying                  │
+│ 🧪 Test Before Shipping                       │
+│ 🔧 Debug With Patience                        │
+│ 🚀 Build For Production                       │
+│ 📚 Keep Learning                              │
+└───────────────────────────────────────────────┘
+
+💻 DEVELOPER TERMINAL
+
+┌─────────────────────────────────────────────────┐
+│ gokul@developer:~                               │
+├─────────────────────────────────────────────────┤
+│                                                 │
+│ $ whoami                                        │
+│ Software Engineer                               │
+│                                                 │
+│ $ pwd                                           │
+│ /building-the-future                            │
+│                                                 │
+│ $ ls                                            │
+│ react  nextjs  node  express  mongodb           │
+│ laravel  mysql  linux  github                   │
+│                                                 │
+│ $ git status                                    │
+│ On branch learning                              │
+│                                                 │
+│ $ echo $MINDSET                                 │
+│ Build. Learn. Improve.                          │
+│                                                 │
+│ $ echo $MISSION                                 │
+│ Turn ideas into software.                       │
+│                                                 │
+│ $ echo $STATUS                                  │
+│ 🚀 KEEP BUILDING                                │
+│                                                 │
+└─────────────────────────────────────────────────┘
+
+📊 GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gokul-Selva-105&hide_border=true&background=00000000&ring=ff3131&fire=ff3131&currStreakLabel=ff3131&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" width="85%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Gokul-Selva-105&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=transparent&title_color=FF3131&icon_color=FF3131&text_color=FFFFFF&bg_color=00000000" width="49%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gokul-Selva-105&layout=donut&hide_border=true&theme=transparent&title_color=FF3131&text_color=FFFFFF&bg_color=00000000" width="49%"/>
 
 </div>
 
----
-
-# 📊 CONTRIBUTION GRAPH
+<br>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-Selva-105&bg_color=050505&color=ffffff&line=ff3131&point=ffffff&area=true&area_color=ff3131&hide_border=true" width="100%"/>
+<img src="https://streak-stats.demolab.com?user=Gokul-Selva-105&hide_border=true&background=00000000&ring=FF3131&fire=FF3131&currStreakLabel=FF3131&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="85%"/>
 
 </div>
 
----
+📈 CONTRIBUTION ACTIVITY
 
-# 🐍 CONTRIBUTION SNAKE
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Gokul-Selva-105&bg_color=050505&color=ffffff&line=ff3131&point=ffffff&area=true&area_color=8b0000&hide_border=true" width="100%"/>
+
+</div>
+
+🐍 CONTRIBUTION SNAKE
 
 <div align="center">
 
@@ -1083,9 +1207,7 @@ System Design + DSA 🚀
 
 </div>
 
----
-
-# 🏆 GITHUB TROPHIES
+🏆 GITHUB TROPHIES
 
 <div align="center">
 
@@ -1093,102 +1215,213 @@ System Design + DSA 🚀
 
 </div>
 
----
-
-# 💻 MY TERMINAL
-
-```bash
-╭─ gokul@developer ~
-╰─$ cat mission.txt
-
-Build software that solves real problems.
-
-╭─ gokul@developer ~
-╰─$ cat mindset.txt
-
-Learn.
-Build.
-Break.
-Debug.
-Understand.
-Improve.
-
-╭─ gokul@developer ~
-╰─$ git status
-
-Learning more every day...
-
-╭─ gokul@developer ~
-╰─$ echo $NEXT_GOAL
-
-Become a stronger full-stack engineer 🚀
-```
-
----
-
-# ⚡ DEVELOPMENT TOOLBOX
+🔥 MY FAVORITE STACK
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/HTML5-e34f26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-f7df1e?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-black?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/npm-CB3837?style=flat-square&logo=npm&logoColor=white"/>
-<img src="https://img.shields.io/badge/cPanel-FF6C2C?style=flat-square&logo=cpanel&logoColor=white"/>
+                FRONTEND
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+        React               Next.js
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+                TypeScript
+                    │
+                    ▼
+                  APIs
+                    │
+          ┌─────────┴─────────┐
+          ▼                   ▼
+       Node.js              Laravel
+          │                   │
+       Express              PHP
+          │                   │
+          └─────────┬─────────┘
+                    ▼
+             DATABASE LAYER
+              │           │
+              ▼           ▼
+           MongoDB      MySQL
 
 </div>
 
----
+🌐 FULL STACK MAP
 
-# 🌐 PROFILE
+<table>
+<tr>
+
+<td align="center">
+
+🎨 FRONTEND
+
+HTML
+CSS
+JavaScript
+TypeScript
+React
+Next.js
+Tailwind
+Bootstrap
+
+</td>
+
+<td align="center">
+
+⚙️ BACKEND
+
+Node.js
+Express.js
+PHP
+Laravel
+REST APIs
+Middleware
+CRUD
+
+</td>
+
+<td align="center">
+
+🗄️ DATABASE
+
+MongoDB
+Mongoose
+Atlas
+Compass
+MySQL
+MariaDB
+
+</td>
+
+<td align="center">
+
+🚀 DEVOPS
+
+Git
+GitHub
+Actions
+Linux
+SSH
+cPanel
+CI/CD
+
+</td>
+
+</tr>
+</table>
+
+🧪 TOOLS I USE
 
 <div align="center">
 
-### SOFTWARE ENGINEER
+Tool
 
-**Building Static & Dynamic Web Applications**
+Purpose
 
-<br>
+VS Code
 
-**React • Next.js • Node.js • Express • MongoDB • Laravel • MySQL**
+Development
 
-<br>
+Git
 
-**UI • APIs • Authentication • Databases • Deployment**
+Version Control
+
+GitHub
+
+Collaboration
+
+GitHub Actions
+
+CI/CD
+
+Postman
+
+API Testing
+
+MongoDB Compass
+
+Database Management
+
+ngrok
+
+Local Tunneling
+
+npm
+
+Package Management
+
+Nodemon
+
+Development Server
+
+Linux
+
+Server / Development
+
+SSH
+
+Remote Server Access
+
+cPanel
+
+Hosting / Deployment
+
+XAMPP
+
+PHP / MySQL Development
 
 </div>
 
----
+💡 WHAT I LIKE BUILDING
 
-# 🤝 CONNECT WITH ME
+╭─────────────────────────────────────────────╮
+│                                             │
+│  🏢 ERP SYSTEMS                             │
+│  📊 ADMIN DASHBOARDS                        │
+│  👥 CRM APPLICATIONS                        │
+│  📋 TASK MANAGEMENT                         │
+│  💼 JOB PLATFORMS                           │
+│  🔐 AUTHENTICATION SYSTEMS                  │
+│  🔌 REST APIs                               │
+│  📱 RESPONSIVE WEB APPS                     │
+│  🚀 PRODUCTION SYSTEMS                      │
+│                                             │
+╰─────────────────────────────────────────────╯
+
+🎯 NEXT LEVEL
+
+TODAY
+  │
+  ├── Build applications
+  ├── Learn architecture
+  ├── Improve frontend
+  └── Improve backend
+  │
+  ▼
+NEXT
+  │
+  ├── Master Laravel
+  ├── Master MySQL
+  ├── Improve DSA
+  ├── Learn System Design
+  └── Build larger systems
+  │
+  ▼
+GOAL
+  │
+  └── Become a stronger full-stack engineer 🚀
+
+🤝 LET'S CONNECT
 
 <div align="center">
 
 <a href="https://github.com/Gokul-Selva-105">
-<img src="https://img.shields.io/badge/GitHub-Gokul--Selva--105-111111?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-GOKUL--SELVA--105-111111?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/gokul-selva-full-stack-web-developer">
-<img src="https://img.shields.io/badge/LinkedIn-Gokul%20Selva-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:gokulselva105@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="https://www.linkedin.com/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -1197,14 +1430,20 @@ Become a stronger full-stack engineer 🚀
 
 <div align="center">
 
-### ⭐ Building today. Learning tomorrow. Improving every day.
+💬 Build something useful.
 
-</div>
+🚀 Learn something new.
+
+🔥 Ship something better.
 
 <br>
 
+Build • Learn • Debug • Ship • Repeat
+
+</div>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,45:8b0000,75:111111,100:050505&height=150&section=footer&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff0000,30:8b0000,65:111111,100:050505&height=180&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
